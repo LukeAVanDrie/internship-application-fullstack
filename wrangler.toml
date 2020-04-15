@@ -1,6 +1,6 @@
-name = "{{project-name}}"
+name = "random-variant-worker"
 type = "javascript"
-account_id = ""
+account_id = "a9f44b5b5fd0c78b623f852fead6be07"
 workers_dev = true
 route = ""
 zone_id = ""
